@@ -1,0 +1,1343 @@
+[
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "CACNA1S",
+        "cou_hap_haplotype": "Reference",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "CACNA1S",
+        "cou_hap_haplotype": "Reference",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "CFTR",
+        "cou_hap_haplotype": "ivacaftor non-responsive CFTR sequence",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "CFTR",
+        "cou_hap_haplotype": "ivacaftor non-responsive CFTR sequence",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "CYP2B6",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 5.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.625
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "CYP2B6",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 5.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.625
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "CYP2B6",
+        "cou_hap_haplotype": "*6",
+        "cou_hap_counts": 1.5,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.1875
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "CYP2B6",
+        "cou_hap_haplotype": "*9",
+        "cou_hap_counts": 1.5,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.1875
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "CYP2C19",
+        "cou_hap_haplotype": "*2",
+        "cou_hap_counts": 4.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.5
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "CYP2C19",
+        "cou_hap_haplotype": "*2",
+        "cou_hap_counts": 4.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.5
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "CYP2C9",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "CYP2C9",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "CYP2D6",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 1.0,
+        "cou_hap_total": 4.0,
+        "cou_hap_frequency": 0.25
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "CYP2D6",
+        "cou_hap_haplotype": "*41",
+        "cou_hap_counts": 2.0,
+        "cou_hap_total": 4.0,
+        "cou_hap_frequency": 0.5
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "CYP3A5",
+        "cou_hap_haplotype": "*3",
+        "cou_hap_counts": 7.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.875
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "CYP3A5",
+        "cou_hap_haplotype": "*3",
+        "cou_hap_counts": 7.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.875
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "CYP4F2",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 6.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.75
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "CYP4F2",
+        "cou_hap_haplotype": "*3",
+        "cou_hap_counts": 2.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.25
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "DPYD",
+        "cou_hap_haplotype": "c.1627A>G (*5)",
+        "cou_hap_counts": 4.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.5
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "DPYD",
+        "cou_hap_haplotype": "c.1627A>G (*5)",
+        "cou_hap_counts": 4.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.5
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "G6PD",
+        "cou_hap_haplotype": "B (wildtype)",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "G6PD",
+        "cou_hap_haplotype": "B (wildtype)",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "HLA-A",
+        "cou_hap_haplotype": "HLA-A*11:01:01",
+        "cou_hap_counts": 2.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.25
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "HLA-A",
+        "cou_hap_haplotype": "HLA-A*02:07:01",
+        "cou_hap_counts": 2.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.25
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "HLA-B",
+        "cou_hap_haplotype": "HLA-B*46:01:01",
+        "cou_hap_counts": 2.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.25
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "HLA-B",
+        "cou_hap_haplotype": "HLA-B*54:01:01",
+        "cou_hap_counts": 1.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.125
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "IFNL3",
+        "cou_hap_haplotype": "rs12979860 reference (C)",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "IFNL3",
+        "cou_hap_haplotype": "rs12979860 reference (C)",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "NUDT15",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 7.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.875
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "NUDT15",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 7.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.875
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "RYR1",
+        "cou_hap_haplotype": "Reference",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "RYR1",
+        "cou_hap_haplotype": "Reference",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "SLCO1B1",
+        "cou_hap_haplotype": "*37",
+        "cou_hap_counts": 5.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.625
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "SLCO1B1",
+        "cou_hap_haplotype": "*37",
+        "cou_hap_counts": 5.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.625
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "TPMT",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "TPMT",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "UGT1A1",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 6.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.75
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "UGT1A1",
+        "cou_hap_haplotype": "*80+*28",
+        "cou_hap_counts": 2.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.25
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "VKORC1",
+        "cou_hap_haplotype": "rs9923231 variant (T)",
+        "cou_hap_counts": 6.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.75
+    },
+    {
+        "cou_hap_sample_id": "00000039",
+        "cou_hap_nbt_id": "00000039",
+        "cou_hap_gene": "VKORC1",
+        "cou_hap_haplotype": "rs9923231 variant (T)",
+        "cou_hap_counts": 6.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.75
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "CACNA1S",
+        "cou_hap_haplotype": "Reference",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "CACNA1S",
+        "cou_hap_haplotype": "Reference",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "CFTR",
+        "cou_hap_haplotype": "ivacaftor non-responsive CFTR sequence",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "CFTR",
+        "cou_hap_haplotype": "ivacaftor non-responsive CFTR sequence",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "CYP2B6",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 5.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.625
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "CYP2B6",
+        "cou_hap_haplotype": "*9",
+        "cou_hap_counts": 1.5,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.1875
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "CYP2C19",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 4.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.5
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "CYP2C19",
+        "cou_hap_haplotype": "*2",
+        "cou_hap_counts": 4.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.5
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "CYP2C9",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "CYP2C9",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "CYP3A5",
+        "cou_hap_haplotype": "*3",
+        "cou_hap_counts": 7.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.875
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "CYP3A5",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 1.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.125
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "CYP4F2",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 6.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.75
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "CYP4F2",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 6.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.75
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "DPYD",
+        "cou_hap_haplotype": "c.1627A>G (*5)",
+        "cou_hap_counts": 4.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.5
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "DPYD",
+        "cou_hap_haplotype": "c.1896T>C",
+        "cou_hap_counts": 1.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.125
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "G6PD",
+        "cou_hap_haplotype": "B (wildtype)",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "G6PD",
+        "cou_hap_haplotype": "B (wildtype)",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "HLA-A",
+        "cou_hap_haplotype": "HLA-A*02:07:01",
+        "cou_hap_counts": 2.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.25
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "HLA-A",
+        "cou_hap_haplotype": "HLA-A*33:03:01",
+        "cou_hap_counts": 1.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.125
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "HLA-B",
+        "cou_hap_haplotype": "HLA-B*46:01:01",
+        "cou_hap_counts": 2.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.25
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "HLA-B",
+        "cou_hap_haplotype": "HLA-B*44:03:02",
+        "cou_hap_counts": 1.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.125
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "IFNL3",
+        "cou_hap_haplotype": "rs12979860 reference (C)",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "IFNL3",
+        "cou_hap_haplotype": "rs12979860 reference (C)",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "NUDT15",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 7.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.875
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "NUDT15",
+        "cou_hap_haplotype": "*3",
+        "cou_hap_counts": 1.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.125
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "RYR1",
+        "cou_hap_haplotype": "Reference",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "RYR1",
+        "cou_hap_haplotype": "Reference",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "SLCO1B1",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 3.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.375
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "SLCO1B1",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 3.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.375
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "TPMT",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "TPMT",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "UGT1A1",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 6.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.75
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "UGT1A1",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 6.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.75
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "VKORC1",
+        "cou_hap_haplotype": "rs9923231 reference (C)",
+        "cou_hap_counts": 2.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.25
+    },
+    {
+        "cou_hap_sample_id": "00000414",
+        "cou_hap_nbt_id": "00000414",
+        "cou_hap_gene": "VKORC1",
+        "cou_hap_haplotype": "rs9923231 variant (T)",
+        "cou_hap_counts": 6.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.75
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "CACNA1S",
+        "cou_hap_haplotype": "Reference",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "CACNA1S",
+        "cou_hap_haplotype": "Reference",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "CFTR",
+        "cou_hap_haplotype": "ivacaftor non-responsive CFTR sequence",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "CFTR",
+        "cou_hap_haplotype": "ivacaftor non-responsive CFTR sequence",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "CYP2B6",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 5.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.625
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "CYP2B6",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 5.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.625
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "CYP2C19",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 4.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.5
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "CYP2C19",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 4.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.5
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "CYP2C9",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "CYP2C9",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "CYP3A5",
+        "cou_hap_haplotype": "*3",
+        "cou_hap_counts": 7.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.875
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "CYP3A5",
+        "cou_hap_haplotype": "*3",
+        "cou_hap_counts": 7.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.875
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "CYP4F2",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 6.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.75
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "CYP4F2",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 6.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.75
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "DPYD",
+        "cou_hap_haplotype": "Reference",
+        "cou_hap_counts": 2.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.25
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "DPYD",
+        "cou_hap_haplotype": "Reference",
+        "cou_hap_counts": 2.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.25
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "G6PD",
+        "cou_hap_haplotype": "B (wildtype)",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "HLA-A",
+        "cou_hap_haplotype": "HLA-A*11:01:01",
+        "cou_hap_counts": 2.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.25
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "HLA-A",
+        "cou_hap_haplotype": "HLA-A*24:07:01",
+        "cou_hap_counts": 1.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.125
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "HLA-B",
+        "cou_hap_haplotype": "HLA-B*15:13:01",
+        "cou_hap_counts": 1.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.125
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "HLA-B",
+        "cou_hap_haplotype": "HLA-B*52:01:01",
+        "cou_hap_counts": 2.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.25
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "IFNL3",
+        "cou_hap_haplotype": "rs12979860 reference (C)",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "IFNL3",
+        "cou_hap_haplotype": "rs12979860 reference (C)",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "NUDT15",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 7.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.875
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "NUDT15",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 7.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.875
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "RYR1",
+        "cou_hap_haplotype": "Reference",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "RYR1",
+        "cou_hap_haplotype": "Reference",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "SLCO1B1",
+        "cou_hap_haplotype": "*37",
+        "cou_hap_counts": 5.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.625
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "SLCO1B1",
+        "cou_hap_haplotype": "*37",
+        "cou_hap_counts": 5.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.625
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "TPMT",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "TPMT",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "UGT1A1",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 6.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.75
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "UGT1A1",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 6.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.75
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "VKORC1",
+        "cou_hap_haplotype": "rs9923231 reference (C)",
+        "cou_hap_counts": 2.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.25
+    },
+    {
+        "cou_hap_sample_id": "00023816",
+        "cou_hap_nbt_id": "00023816",
+        "cou_hap_gene": "VKORC1",
+        "cou_hap_haplotype": "rs9923231 variant (T)",
+        "cou_hap_counts": 6.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.75
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "CACNA1S",
+        "cou_hap_haplotype": "Reference",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "CACNA1S",
+        "cou_hap_haplotype": "Reference",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "CFTR",
+        "cou_hap_haplotype": "ivacaftor non-responsive CFTR sequence",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "CFTR",
+        "cou_hap_haplotype": "ivacaftor non-responsive CFTR sequence",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "CYP2B6",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 5.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.625
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "CYP2B6",
+        "cou_hap_haplotype": "*6",
+        "cou_hap_counts": 1.5,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.1875
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "CYP2C19",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 4.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.5
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "CYP2C19",
+        "cou_hap_haplotype": "*2",
+        "cou_hap_counts": 4.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.5
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "CYP2C9",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "CYP2C9",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "CYP2D6",
+        "cou_hap_haplotype": "*41",
+        "cou_hap_counts": 2.0,
+        "cou_hap_total": 4.0,
+        "cou_hap_frequency": 0.5
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "CYP2D6",
+        "cou_hap_haplotype": "*36+*10",
+        "cou_hap_counts": 1.0,
+        "cou_hap_total": 4.0,
+        "cou_hap_frequency": 0.25
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "CYP3A5",
+        "cou_hap_haplotype": "*3",
+        "cou_hap_counts": 7.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.875
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "CYP3A5",
+        "cou_hap_haplotype": "*3",
+        "cou_hap_counts": 7.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.875
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "CYP4F2",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 6.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.75
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "CYP4F2",
+        "cou_hap_haplotype": "*3",
+        "cou_hap_counts": 2.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.25
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "DPYD",
+        "cou_hap_haplotype": "c.1627A>G (*5)",
+        "cou_hap_counts": 4.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.5
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "DPYD",
+        "cou_hap_haplotype": "c.2194G>A (*6)",
+        "cou_hap_counts": 1.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.125
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "G6PD",
+        "cou_hap_haplotype": "B (wildtype)",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "G6PD",
+        "cou_hap_haplotype": "B (wildtype)",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "HLA-A",
+        "cou_hap_haplotype": "HLA-A*24:02:01",
+        "cou_hap_counts": 2.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.25
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "HLA-A",
+        "cou_hap_haplotype": "HLA-A*24:02:01",
+        "cou_hap_counts": 2.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.25
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "HLA-B",
+        "cou_hap_haplotype": "HLA-B*52:01:01",
+        "cou_hap_counts": 2.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.25
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "HLA-B",
+        "cou_hap_haplotype": "HLA-B*15:02:01",
+        "cou_hap_counts": 1.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.125
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "IFNL3",
+        "cou_hap_haplotype": "rs12979860 reference (C)",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "IFNL3",
+        "cou_hap_haplotype": "rs12979860 reference (C)",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "NUDT15",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 7.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.875
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "NUDT15",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 7.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.875
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "RYR1",
+        "cou_hap_haplotype": "Reference",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "RYR1",
+        "cou_hap_haplotype": "Reference",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "SLCO1B1",
+        "cou_hap_haplotype": "*37",
+        "cou_hap_counts": 5.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.625
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "SLCO1B1",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 3.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.375
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "TPMT",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "TPMT",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 8.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 1.0
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "UGT1A1",
+        "cou_hap_haplotype": "*1",
+        "cou_hap_counts": 6.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.75
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "UGT1A1",
+        "cou_hap_haplotype": "*80+*28",
+        "cou_hap_counts": 2.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.25
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "VKORC1",
+        "cou_hap_haplotype": "rs9923231 variant (T)",
+        "cou_hap_counts": 6.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.75
+    },
+    {
+        "cou_hap_sample_id": "00027148",
+        "cou_hap_nbt_id": "00027148",
+        "cou_hap_gene": "VKORC1",
+        "cou_hap_haplotype": "rs9923231 variant (T)",
+        "cou_hap_counts": 6.0,
+        "cou_hap_total": 8.0,
+        "cou_hap_frequency": 0.75
+    }
+]

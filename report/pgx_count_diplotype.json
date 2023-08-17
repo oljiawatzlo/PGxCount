@@ -1,0 +1,570 @@
+[
+    {
+        "cou_dip_sample_id": "00000039",
+        "cou_dip_nbt_id": "00000039",
+        "cou_dip_gene": "CACNA1S",
+        "cou_dip_counts": 4.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 1.0
+    },
+    {
+        "cou_dip_sample_id": "00000039",
+        "cou_dip_nbt_id": "00000039",
+        "cou_dip_gene": "CFTR",
+        "cou_dip_counts": 4.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 1.0
+    },
+    {
+        "cou_dip_sample_id": "00000039",
+        "cou_dip_nbt_id": "00000039",
+        "cou_dip_gene": "CYP2B6",
+        "cou_dip_counts": 1.5,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.375
+    },
+    {
+        "cou_dip_sample_id": "00000039",
+        "cou_dip_nbt_id": "00000039",
+        "cou_dip_gene": "CYP2B6",
+        "cou_dip_counts": 1.5,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.375
+    },
+    {
+        "cou_dip_sample_id": "00000039",
+        "cou_dip_nbt_id": "00000039",
+        "cou_dip_gene": "CYP2C19",
+        "cou_dip_counts": 1.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.25
+    },
+    {
+        "cou_dip_sample_id": "00000039",
+        "cou_dip_nbt_id": "00000039",
+        "cou_dip_gene": "CYP2C9",
+        "cou_dip_counts": 4.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 1.0
+    },
+    {
+        "cou_dip_sample_id": "00000039",
+        "cou_dip_nbt_id": "00000039",
+        "cou_dip_gene": "CYP2D6",
+        "cou_dip_counts": 1.0,
+        "cou_dip_total": 2.0,
+        "cou_dip_frequency": 0.5
+    },
+    {
+        "cou_dip_sample_id": "00000039",
+        "cou_dip_nbt_id": "00000039",
+        "cou_dip_gene": "CYP3A5",
+        "cou_dip_counts": 3.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.75
+    },
+    {
+        "cou_dip_sample_id": "00000039",
+        "cou_dip_nbt_id": "00000039",
+        "cou_dip_gene": "CYP4F2",
+        "cou_dip_counts": 2.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.5
+    },
+    {
+        "cou_dip_sample_id": "00000039",
+        "cou_dip_nbt_id": "00000039",
+        "cou_dip_gene": "DPYD",
+        "cou_dip_counts": 1.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.25
+    },
+    {
+        "cou_dip_sample_id": "00000039",
+        "cou_dip_nbt_id": "00000039",
+        "cou_dip_gene": "HLA-A",
+        "cou_dip_counts": 1.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.25
+    },
+    {
+        "cou_dip_sample_id": "00000039",
+        "cou_dip_nbt_id": "00000039",
+        "cou_dip_gene": "HLA-B",
+        "cou_dip_counts": 1.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.25
+    },
+    {
+        "cou_dip_sample_id": "00000039",
+        "cou_dip_nbt_id": "00000039",
+        "cou_dip_gene": "IFNL3",
+        "cou_dip_counts": 4.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 1.0
+    },
+    {
+        "cou_dip_sample_id": "00000039",
+        "cou_dip_nbt_id": "00000039",
+        "cou_dip_gene": "NUDT15",
+        "cou_dip_counts": 3.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.75
+    },
+    {
+        "cou_dip_sample_id": "00000039",
+        "cou_dip_nbt_id": "00000039",
+        "cou_dip_gene": "RYR1",
+        "cou_dip_counts": 4.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 1.0
+    },
+    {
+        "cou_dip_sample_id": "00000039",
+        "cou_dip_nbt_id": "00000039",
+        "cou_dip_gene": "SLCO1B1",
+        "cou_dip_counts": 2.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.5
+    },
+    {
+        "cou_dip_sample_id": "00000039",
+        "cou_dip_nbt_id": "00000039",
+        "cou_dip_gene": "TPMT",
+        "cou_dip_counts": 4.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 1.0
+    },
+    {
+        "cou_dip_sample_id": "00000039",
+        "cou_dip_nbt_id": "00000039",
+        "cou_dip_gene": "UGT1A1",
+        "cou_dip_counts": 2.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.5
+    },
+    {
+        "cou_dip_sample_id": "00000039",
+        "cou_dip_nbt_id": "00000039",
+        "cou_dip_gene": "VKORC1",
+        "cou_dip_counts": 2.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.5
+    },
+    {
+        "cou_dip_sample_id": "00000414",
+        "cou_dip_nbt_id": "00000414",
+        "cou_dip_gene": "CACNA1S",
+        "cou_dip_counts": 4.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 1.0
+    },
+    {
+        "cou_dip_sample_id": "00000414",
+        "cou_dip_nbt_id": "00000414",
+        "cou_dip_gene": "CFTR",
+        "cou_dip_counts": 4.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 1.0
+    },
+    {
+        "cou_dip_sample_id": "00000414",
+        "cou_dip_nbt_id": "00000414",
+        "cou_dip_gene": "CYP2B6",
+        "cou_dip_counts": 1.5,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.375
+    },
+    {
+        "cou_dip_sample_id": "00000414",
+        "cou_dip_nbt_id": "00000414",
+        "cou_dip_gene": "CYP2C19",
+        "cou_dip_counts": 2.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.5
+    },
+    {
+        "cou_dip_sample_id": "00000414",
+        "cou_dip_nbt_id": "00000414",
+        "cou_dip_gene": "CYP2C9",
+        "cou_dip_counts": 4.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 1.0
+    },
+    {
+        "cou_dip_sample_id": "00000414",
+        "cou_dip_nbt_id": "00000414",
+        "cou_dip_gene": "CYP3A5",
+        "cou_dip_counts": 1.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.25
+    },
+    {
+        "cou_dip_sample_id": "00000414",
+        "cou_dip_nbt_id": "00000414",
+        "cou_dip_gene": "CYP4F2",
+        "cou_dip_counts": 2.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.5
+    },
+    {
+        "cou_dip_sample_id": "00000414",
+        "cou_dip_nbt_id": "00000414",
+        "cou_dip_gene": "DPYD",
+        "cou_dip_counts": 1.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.25
+    },
+    {
+        "cou_dip_sample_id": "00000414",
+        "cou_dip_nbt_id": "00000414",
+        "cou_dip_gene": "HLA-A",
+        "cou_dip_counts": 1.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.25
+    },
+    {
+        "cou_dip_sample_id": "00000414",
+        "cou_dip_nbt_id": "00000414",
+        "cou_dip_gene": "HLA-B",
+        "cou_dip_counts": 1.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.25
+    },
+    {
+        "cou_dip_sample_id": "00000414",
+        "cou_dip_nbt_id": "00000414",
+        "cou_dip_gene": "IFNL3",
+        "cou_dip_counts": 4.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 1.0
+    },
+    {
+        "cou_dip_sample_id": "00000414",
+        "cou_dip_nbt_id": "00000414",
+        "cou_dip_gene": "NUDT15",
+        "cou_dip_counts": 1.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.25
+    },
+    {
+        "cou_dip_sample_id": "00000414",
+        "cou_dip_nbt_id": "00000414",
+        "cou_dip_gene": "RYR1",
+        "cou_dip_counts": 4.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 1.0
+    },
+    {
+        "cou_dip_sample_id": "00000414",
+        "cou_dip_nbt_id": "00000414",
+        "cou_dip_gene": "SLCO1B1",
+        "cou_dip_counts": 1.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.25
+    },
+    {
+        "cou_dip_sample_id": "00000414",
+        "cou_dip_nbt_id": "00000414",
+        "cou_dip_gene": "TPMT",
+        "cou_dip_counts": 4.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 1.0
+    },
+    {
+        "cou_dip_sample_id": "00000414",
+        "cou_dip_nbt_id": "00000414",
+        "cou_dip_gene": "UGT1A1",
+        "cou_dip_counts": 2.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.5
+    },
+    {
+        "cou_dip_sample_id": "00000414",
+        "cou_dip_nbt_id": "00000414",
+        "cou_dip_gene": "VKORC1",
+        "cou_dip_counts": 2.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.5
+    },
+    {
+        "cou_dip_sample_id": "00023816",
+        "cou_dip_nbt_id": "00023816",
+        "cou_dip_gene": "CACNA1S",
+        "cou_dip_counts": 4.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 1.0
+    },
+    {
+        "cou_dip_sample_id": "00023816",
+        "cou_dip_nbt_id": "00023816",
+        "cou_dip_gene": "CFTR",
+        "cou_dip_counts": 4.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 1.0
+    },
+    {
+        "cou_dip_sample_id": "00023816",
+        "cou_dip_nbt_id": "00023816",
+        "cou_dip_gene": "CYP2B6",
+        "cou_dip_counts": 1.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.25
+    },
+    {
+        "cou_dip_sample_id": "00023816",
+        "cou_dip_nbt_id": "00023816",
+        "cou_dip_gene": "CYP2C19",
+        "cou_dip_counts": 1.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.25
+    },
+    {
+        "cou_dip_sample_id": "00023816",
+        "cou_dip_nbt_id": "00023816",
+        "cou_dip_gene": "CYP2C9",
+        "cou_dip_counts": 4.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 1.0
+    },
+    {
+        "cou_dip_sample_id": "00023816",
+        "cou_dip_nbt_id": "00023816",
+        "cou_dip_gene": "CYP3A5",
+        "cou_dip_counts": 3.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.75
+    },
+    {
+        "cou_dip_sample_id": "00023816",
+        "cou_dip_nbt_id": "00023816",
+        "cou_dip_gene": "CYP4F2",
+        "cou_dip_counts": 2.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.5
+    },
+    {
+        "cou_dip_sample_id": "00023816",
+        "cou_dip_nbt_id": "00023816",
+        "cou_dip_gene": "DPYD",
+        "cou_dip_counts": 1.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.25
+    },
+    {
+        "cou_dip_sample_id": "00023816",
+        "cou_dip_nbt_id": "00023816",
+        "cou_dip_gene": "HLA-A",
+        "cou_dip_counts": 1.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.25
+    },
+    {
+        "cou_dip_sample_id": "00023816",
+        "cou_dip_nbt_id": "00023816",
+        "cou_dip_gene": "HLA-B",
+        "cou_dip_counts": 1.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.25
+    },
+    {
+        "cou_dip_sample_id": "00023816",
+        "cou_dip_nbt_id": "00023816",
+        "cou_dip_gene": "IFNL3",
+        "cou_dip_counts": 4.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 1.0
+    },
+    {
+        "cou_dip_sample_id": "00023816",
+        "cou_dip_nbt_id": "00023816",
+        "cou_dip_gene": "NUDT15",
+        "cou_dip_counts": 3.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.75
+    },
+    {
+        "cou_dip_sample_id": "00023816",
+        "cou_dip_nbt_id": "00023816",
+        "cou_dip_gene": "RYR1",
+        "cou_dip_counts": 4.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 1.0
+    },
+    {
+        "cou_dip_sample_id": "00023816",
+        "cou_dip_nbt_id": "00023816",
+        "cou_dip_gene": "SLCO1B1",
+        "cou_dip_counts": 2.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.5
+    },
+    {
+        "cou_dip_sample_id": "00023816",
+        "cou_dip_nbt_id": "00023816",
+        "cou_dip_gene": "TPMT",
+        "cou_dip_counts": 4.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 1.0
+    },
+    {
+        "cou_dip_sample_id": "00023816",
+        "cou_dip_nbt_id": "00023816",
+        "cou_dip_gene": "UGT1A1",
+        "cou_dip_counts": 2.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.5
+    },
+    {
+        "cou_dip_sample_id": "00023816",
+        "cou_dip_nbt_id": "00023816",
+        "cou_dip_gene": "VKORC1",
+        "cou_dip_counts": 2.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.5
+    },
+    {
+        "cou_dip_sample_id": "00027148",
+        "cou_dip_nbt_id": "00027148",
+        "cou_dip_gene": "CACNA1S",
+        "cou_dip_counts": 4.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 1.0
+    },
+    {
+        "cou_dip_sample_id": "00027148",
+        "cou_dip_nbt_id": "00027148",
+        "cou_dip_gene": "CFTR",
+        "cou_dip_counts": 4.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 1.0
+    },
+    {
+        "cou_dip_sample_id": "00027148",
+        "cou_dip_nbt_id": "00027148",
+        "cou_dip_gene": "CYP2B6",
+        "cou_dip_counts": 1.5,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.375
+    },
+    {
+        "cou_dip_sample_id": "00027148",
+        "cou_dip_nbt_id": "00027148",
+        "cou_dip_gene": "CYP2C19",
+        "cou_dip_counts": 2.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.5
+    },
+    {
+        "cou_dip_sample_id": "00027148",
+        "cou_dip_nbt_id": "00027148",
+        "cou_dip_gene": "CYP2C9",
+        "cou_dip_counts": 4.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 1.0
+    },
+    {
+        "cou_dip_sample_id": "00027148",
+        "cou_dip_nbt_id": "00027148",
+        "cou_dip_gene": "CYP2D6",
+        "cou_dip_counts": 1.0,
+        "cou_dip_total": 2.0,
+        "cou_dip_frequency": 0.5
+    },
+    {
+        "cou_dip_sample_id": "00027148",
+        "cou_dip_nbt_id": "00027148",
+        "cou_dip_gene": "CYP3A5",
+        "cou_dip_counts": 3.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.75
+    },
+    {
+        "cou_dip_sample_id": "00027148",
+        "cou_dip_nbt_id": "00027148",
+        "cou_dip_gene": "CYP4F2",
+        "cou_dip_counts": 2.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.5
+    },
+    {
+        "cou_dip_sample_id": "00027148",
+        "cou_dip_nbt_id": "00027148",
+        "cou_dip_gene": "DPYD",
+        "cou_dip_counts": 1.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.25
+    },
+    {
+        "cou_dip_sample_id": "00027148",
+        "cou_dip_nbt_id": "00027148",
+        "cou_dip_gene": "HLA-A",
+        "cou_dip_counts": 1.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.25
+    },
+    {
+        "cou_dip_sample_id": "00027148",
+        "cou_dip_nbt_id": "00027148",
+        "cou_dip_gene": "HLA-B",
+        "cou_dip_counts": 1.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.25
+    },
+    {
+        "cou_dip_sample_id": "00027148",
+        "cou_dip_nbt_id": "00027148",
+        "cou_dip_gene": "IFNL3",
+        "cou_dip_counts": 4.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 1.0
+    },
+    {
+        "cou_dip_sample_id": "00027148",
+        "cou_dip_nbt_id": "00027148",
+        "cou_dip_gene": "NUDT15",
+        "cou_dip_counts": 3.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.75
+    },
+    {
+        "cou_dip_sample_id": "00027148",
+        "cou_dip_nbt_id": "00027148",
+        "cou_dip_gene": "RYR1",
+        "cou_dip_counts": 4.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 1.0
+    },
+    {
+        "cou_dip_sample_id": "00027148",
+        "cou_dip_nbt_id": "00027148",
+        "cou_dip_gene": "SLCO1B1",
+        "cou_dip_counts": 1.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.25
+    },
+    {
+        "cou_dip_sample_id": "00027148",
+        "cou_dip_nbt_id": "00027148",
+        "cou_dip_gene": "TPMT",
+        "cou_dip_counts": 4.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 1.0
+    },
+    {
+        "cou_dip_sample_id": "00027148",
+        "cou_dip_nbt_id": "00027148",
+        "cou_dip_gene": "UGT1A1",
+        "cou_dip_counts": 2.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.5
+    },
+    {
+        "cou_dip_sample_id": "00027148",
+        "cou_dip_nbt_id": "00027148",
+        "cou_dip_gene": "VKORC1",
+        "cou_dip_counts": 2.0,
+        "cou_dip_total": 4.0,
+        "cou_dip_frequency": 0.5
+    }
+]
