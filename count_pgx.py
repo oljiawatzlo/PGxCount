@@ -2,7 +2,7 @@ import argparse
 import json
 import pandas as pd
 from modules.etl_pgx import ETLPGx
-from modules.count_allele import CountHaplotype
+from modules.count_haplotype import CountHaplotype
 from modules.count_diplotype import CountDiplotype
 from modules.line_notify import send_message
 
@@ -47,6 +47,7 @@ for data in master_data:
                 'cou_dip_sample_id': data['sample_id'],
                 'cou_dip_nbt_id': data['nbt_id'],
                 'cou_dip_gene': gene_data['gene'],
+                'cou_dip_diplotype': diplotype,
                 'lookupkey': gene_data['gene'] + '-' + diplotype
             }
             result_dip.append(dict_dip)

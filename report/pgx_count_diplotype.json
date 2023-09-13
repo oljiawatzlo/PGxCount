@@ -3,568 +3,3692 @@
         "cou_dip_sample_id": "00000039",
         "cou_dip_nbt_id": "00000039",
         "cou_dip_gene": "CACNA1S",
-        "cou_dip_counts": 4.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 1.0
+        "cou_dip_diplotype": "Reference/Reference",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000039",
         "cou_dip_nbt_id": "00000039",
         "cou_dip_gene": "CFTR",
-        "cou_dip_counts": 4.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 1.0
+        "cou_dip_diplotype": "ivacaftor non-responsive CFTR sequence/ivacaftor non-responsive CFTR sequence",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000039",
         "cou_dip_nbt_id": "00000039",
         "cou_dip_gene": "CYP2B6",
-        "cou_dip_counts": 1.5,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.375
+        "cou_dip_diplotype": "*1/*6",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 6.0,
+                "dip_ratio": 0.1667
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 5.0,
+                "dip_ratio": 0.2
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000039",
         "cou_dip_nbt_id": "00000039",
         "cou_dip_gene": "CYP2B6",
-        "cou_dip_counts": 1.5,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.375
+        "cou_dip_diplotype": "*1/*9",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 6.0,
+                "dip_ratio": 0.1667
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 5.0,
+                "dip_ratio": 0.2
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000039",
         "cou_dip_nbt_id": "00000039",
         "cou_dip_gene": "CYP2C19",
-        "cou_dip_counts": 1.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.25
+        "cou_dip_diplotype": "*2/*2",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000039",
         "cou_dip_nbt_id": "00000039",
         "cou_dip_gene": "CYP2C9",
-        "cou_dip_counts": 4.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 1.0
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000039",
         "cou_dip_nbt_id": "00000039",
         "cou_dip_gene": "CYP2D6",
-        "cou_dip_counts": 1.0,
-        "cou_dip_total": 2.0,
-        "cou_dip_frequency": 0.5
+        "cou_dip_diplotype": "*1/*41",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 3.0,
+                "dip_ratio": 0.3333
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 3.0,
+                "dip_ratio": 0.3333
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 0.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000039",
         "cou_dip_nbt_id": "00000039",
         "cou_dip_gene": "CYP3A5",
-        "cou_dip_counts": 3.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.75
+        "cou_dip_diplotype": "*3/*3",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 3.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.375
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 2.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.2857
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000039",
         "cou_dip_nbt_id": "00000039",
         "cou_dip_gene": "CYP4F2",
-        "cou_dip_counts": 2.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.5
+        "cou_dip_diplotype": "*1/*3",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 3.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.375
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 3.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.4286
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000039",
         "cou_dip_nbt_id": "00000039",
         "cou_dip_gene": "DPYD",
-        "cou_dip_counts": 1.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.25
+        "cou_dip_diplotype": "c.1627A>G (*5)/c.1627A>G (*5)",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000039",
         "cou_dip_nbt_id": "00000039",
         "cou_dip_gene": "HLA-A",
-        "cou_dip_counts": 1.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.25
+        "cou_dip_diplotype": "HLA-A*02:07:01/HLA-A*11:01:01",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 0.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000039",
         "cou_dip_nbt_id": "00000039",
         "cou_dip_gene": "HLA-B",
-        "cou_dip_counts": 1.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.25
+        "cou_dip_diplotype": "HLA-B*46:01:01/HLA-B*54:01:01",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 0.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000039",
         "cou_dip_nbt_id": "00000039",
         "cou_dip_gene": "IFNL3",
-        "cou_dip_counts": 4.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 1.0
+        "cou_dip_diplotype": "rs12979860 reference (C)/rs12979860 reference (C)",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000039",
         "cou_dip_nbt_id": "00000039",
         "cou_dip_gene": "NUDT15",
-        "cou_dip_counts": 3.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.75
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 6.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.75
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000039",
         "cou_dip_nbt_id": "00000039",
         "cou_dip_gene": "RYR1",
-        "cou_dip_counts": 4.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 1.0
+        "cou_dip_diplotype": "Reference/Reference",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000039",
         "cou_dip_nbt_id": "00000039",
         "cou_dip_gene": "SLCO1B1",
-        "cou_dip_counts": 2.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.5
+        "cou_dip_diplotype": "*37/*37",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 4.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.5
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 3.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.4286
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000039",
         "cou_dip_nbt_id": "00000039",
         "cou_dip_gene": "TPMT",
-        "cou_dip_counts": 4.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 1.0
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000039",
         "cou_dip_nbt_id": "00000039",
         "cou_dip_gene": "UGT1A1",
-        "cou_dip_counts": 2.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.5
+        "cou_dip_diplotype": "*1/*80+*28",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 2.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.25
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 2.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.2857
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000039",
         "cou_dip_nbt_id": "00000039",
         "cou_dip_gene": "VKORC1",
-        "cou_dip_counts": 2.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.5
+        "cou_dip_diplotype": "rs9923231 variant (T)/rs9923231 variant (T)",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 5.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.625
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000414",
         "cou_dip_nbt_id": "00000414",
         "cou_dip_gene": "CACNA1S",
-        "cou_dip_counts": 4.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 1.0
+        "cou_dip_diplotype": "Reference/Reference",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000414",
         "cou_dip_nbt_id": "00000414",
         "cou_dip_gene": "CFTR",
-        "cou_dip_counts": 4.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 1.0
+        "cou_dip_diplotype": "ivacaftor non-responsive CFTR sequence/ivacaftor non-responsive CFTR sequence",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000414",
         "cou_dip_nbt_id": "00000414",
         "cou_dip_gene": "CYP2B6",
-        "cou_dip_counts": 1.5,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.375
+        "cou_dip_diplotype": "*1/*9",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 6.0,
+                "dip_ratio": 0.1667
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 5.0,
+                "dip_ratio": 0.2
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000414",
         "cou_dip_nbt_id": "00000414",
         "cou_dip_gene": "CYP2C19",
-        "cou_dip_counts": 2.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.5
+        "cou_dip_diplotype": "*1/*2",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 5.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.625
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000414",
         "cou_dip_nbt_id": "00000414",
         "cou_dip_gene": "CYP2C9",
-        "cou_dip_counts": 4.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 1.0
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000414",
         "cou_dip_nbt_id": "00000414",
         "cou_dip_gene": "CYP3A5",
-        "cou_dip_counts": 1.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.25
+        "cou_dip_diplotype": "*1/*3",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 5.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.625
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000414",
         "cou_dip_nbt_id": "00000414",
         "cou_dip_gene": "CYP4F2",
-        "cou_dip_counts": 2.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.5
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 4.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.5
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 3.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.4286
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000414",
         "cou_dip_nbt_id": "00000414",
         "cou_dip_gene": "DPYD",
-        "cou_dip_counts": 1.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.25
+        "cou_dip_diplotype": "c.1627A>G (*5)/c.1896T>C",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000414",
         "cou_dip_nbt_id": "00000414",
         "cou_dip_gene": "HLA-A",
-        "cou_dip_counts": 1.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.25
+        "cou_dip_diplotype": "HLA-A*02:07:01/HLA-A*33:03:01",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 0.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000414",
         "cou_dip_nbt_id": "00000414",
         "cou_dip_gene": "HLA-B",
-        "cou_dip_counts": 1.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.25
+        "cou_dip_diplotype": "HLA-B*44:03:02/HLA-B*46:01:01",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 0.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000414",
         "cou_dip_nbt_id": "00000414",
         "cou_dip_gene": "IFNL3",
-        "cou_dip_counts": 4.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 1.0
+        "cou_dip_diplotype": "rs12979860 reference (C)/rs12979860 reference (C)",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000414",
         "cou_dip_nbt_id": "00000414",
         "cou_dip_gene": "NUDT15",
-        "cou_dip_counts": 1.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.25
+        "cou_dip_diplotype": "*1/*3",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000414",
         "cou_dip_nbt_id": "00000414",
         "cou_dip_gene": "RYR1",
-        "cou_dip_counts": 4.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 1.0
+        "cou_dip_diplotype": "Reference/Reference",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000414",
         "cou_dip_nbt_id": "00000414",
         "cou_dip_gene": "SLCO1B1",
-        "cou_dip_counts": 1.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.25
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 2.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.25
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 2.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.2857
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000414",
         "cou_dip_nbt_id": "00000414",
         "cou_dip_gene": "TPMT",
-        "cou_dip_counts": 4.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 1.0
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000414",
         "cou_dip_nbt_id": "00000414",
         "cou_dip_gene": "UGT1A1",
-        "cou_dip_counts": 2.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.5
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 6.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.75
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00000414",
         "cou_dip_nbt_id": "00000414",
         "cou_dip_gene": "VKORC1",
-        "cou_dip_counts": 2.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.5
+        "cou_dip_diplotype": "rs9923231 reference (C)/rs9923231 variant (T)",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 3.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.375
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 2.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.2857
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00023816",
         "cou_dip_nbt_id": "00023816",
         "cou_dip_gene": "CACNA1S",
-        "cou_dip_counts": 4.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 1.0
+        "cou_dip_diplotype": "Reference/Reference",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00023816",
         "cou_dip_nbt_id": "00023816",
         "cou_dip_gene": "CFTR",
-        "cou_dip_counts": 4.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 1.0
+        "cou_dip_diplotype": "ivacaftor non-responsive CFTR sequence/ivacaftor non-responsive CFTR sequence",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00023816",
         "cou_dip_nbt_id": "00023816",
         "cou_dip_gene": "CYP2B6",
-        "cou_dip_counts": 1.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.25
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 2.0,
+                "dip_total": 6.0,
+                "dip_ratio": 0.3333
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 5.0,
+                "dip_ratio": 0.2
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00023816",
         "cou_dip_nbt_id": "00023816",
         "cou_dip_gene": "CYP2C19",
-        "cou_dip_counts": 1.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.25
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 2.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.25
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00023816",
         "cou_dip_nbt_id": "00023816",
         "cou_dip_gene": "CYP2C9",
-        "cou_dip_counts": 4.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 1.0
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00023816",
         "cou_dip_nbt_id": "00023816",
         "cou_dip_gene": "CYP3A5",
-        "cou_dip_counts": 3.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.75
+        "cou_dip_diplotype": "*3/*3",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 3.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.375
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 2.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.2857
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00023816",
         "cou_dip_nbt_id": "00023816",
         "cou_dip_gene": "CYP4F2",
-        "cou_dip_counts": 2.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.5
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 4.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.5
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 3.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.4286
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00023816",
         "cou_dip_nbt_id": "00023816",
         "cou_dip_gene": "DPYD",
-        "cou_dip_counts": 1.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.25
+        "cou_dip_diplotype": "Reference/Reference",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 3.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.375
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 2.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.2857
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00023816",
         "cou_dip_nbt_id": "00023816",
         "cou_dip_gene": "HLA-A",
-        "cou_dip_counts": 1.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.25
+        "cou_dip_diplotype": "HLA-A*11:01:01/HLA-A*24:07:01",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 0.0,
+                "dip_total": 0.0,
+                "dip_ratio": 0.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00023816",
         "cou_dip_nbt_id": "00023816",
         "cou_dip_gene": "HLA-B",
-        "cou_dip_counts": 1.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.25
+        "cou_dip_diplotype": "HLA-B*15:13:01/HLA-B*52:01:01",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 0.0,
+                "dip_total": 0.0,
+                "dip_ratio": 0.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00023816",
         "cou_dip_nbt_id": "00023816",
         "cou_dip_gene": "IFNL3",
-        "cou_dip_counts": 4.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 1.0
+        "cou_dip_diplotype": "rs12979860 reference (C)/rs12979860 reference (C)",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00023816",
         "cou_dip_nbt_id": "00023816",
         "cou_dip_gene": "NUDT15",
-        "cou_dip_counts": 3.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.75
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 6.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.75
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00023816",
         "cou_dip_nbt_id": "00023816",
         "cou_dip_gene": "RYR1",
-        "cou_dip_counts": 4.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 1.0
+        "cou_dip_diplotype": "Reference/Reference",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00023816",
         "cou_dip_nbt_id": "00023816",
         "cou_dip_gene": "SLCO1B1",
-        "cou_dip_counts": 2.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.5
+        "cou_dip_diplotype": "*37/*37",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 4.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.5
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 3.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.4286
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00023816",
         "cou_dip_nbt_id": "00023816",
         "cou_dip_gene": "TPMT",
-        "cou_dip_counts": 4.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 1.0
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00023816",
         "cou_dip_nbt_id": "00023816",
         "cou_dip_gene": "UGT1A1",
-        "cou_dip_counts": 2.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.5
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 6.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.75
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00023816",
         "cou_dip_nbt_id": "00023816",
         "cou_dip_gene": "VKORC1",
-        "cou_dip_counts": 2.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.5
+        "cou_dip_diplotype": "rs9923231 reference (C)/rs9923231 variant (T)",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 3.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.375
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 2.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.2857
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00027148",
         "cou_dip_nbt_id": "00027148",
         "cou_dip_gene": "CACNA1S",
-        "cou_dip_counts": 4.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 1.0
+        "cou_dip_diplotype": "Reference/Reference",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00027148",
         "cou_dip_nbt_id": "00027148",
         "cou_dip_gene": "CFTR",
-        "cou_dip_counts": 4.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 1.0
+        "cou_dip_diplotype": "ivacaftor non-responsive CFTR sequence/ivacaftor non-responsive CFTR sequence",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00027148",
         "cou_dip_nbt_id": "00027148",
         "cou_dip_gene": "CYP2B6",
-        "cou_dip_counts": 1.5,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.375
+        "cou_dip_diplotype": "*1/*6",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 6.0,
+                "dip_ratio": 0.1667
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 5.0,
+                "dip_ratio": 0.2
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00027148",
         "cou_dip_nbt_id": "00027148",
         "cou_dip_gene": "CYP2C19",
-        "cou_dip_counts": 2.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.5
+        "cou_dip_diplotype": "*1/*2",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 5.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.625
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00027148",
         "cou_dip_nbt_id": "00027148",
         "cou_dip_gene": "CYP2C9",
-        "cou_dip_counts": 4.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 1.0
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00027148",
         "cou_dip_nbt_id": "00027148",
         "cou_dip_gene": "CYP2D6",
-        "cou_dip_counts": 1.0,
-        "cou_dip_total": 2.0,
-        "cou_dip_frequency": 0.5
+        "cou_dip_diplotype": "*41/*36+*10",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 3.0,
+                "dip_ratio": 0.3333
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 3.0,
+                "dip_ratio": 0.3333
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 0.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00027148",
         "cou_dip_nbt_id": "00027148",
         "cou_dip_gene": "CYP3A5",
-        "cou_dip_counts": 3.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.75
+        "cou_dip_diplotype": "*3/*3",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 3.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.375
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 2.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.2857
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00027148",
         "cou_dip_nbt_id": "00027148",
         "cou_dip_gene": "CYP4F2",
-        "cou_dip_counts": 2.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.5
+        "cou_dip_diplotype": "*1/*3",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 3.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.375
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 3.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.4286
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00027148",
         "cou_dip_nbt_id": "00027148",
         "cou_dip_gene": "DPYD",
-        "cou_dip_counts": 1.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.25
+        "cou_dip_diplotype": "c.1627A>G (*5)/c.2194G>A (*6)",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00027148",
         "cou_dip_nbt_id": "00027148",
         "cou_dip_gene": "HLA-A",
-        "cou_dip_counts": 1.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.25
+        "cou_dip_diplotype": "HLA-A*24:02:01/HLA-A*24:02:01",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 0.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00027148",
         "cou_dip_nbt_id": "00027148",
         "cou_dip_gene": "HLA-B",
-        "cou_dip_counts": 1.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.25
+        "cou_dip_diplotype": "HLA-B*15:02:01/HLA-B*52:01:01",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 0.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00027148",
         "cou_dip_nbt_id": "00027148",
         "cou_dip_gene": "IFNL3",
-        "cou_dip_counts": 4.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 1.0
+        "cou_dip_diplotype": "rs12979860 reference (C)/rs12979860 reference (C)",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00027148",
         "cou_dip_nbt_id": "00027148",
         "cou_dip_gene": "NUDT15",
-        "cou_dip_counts": 3.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.75
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 6.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.75
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00027148",
         "cou_dip_nbt_id": "00027148",
         "cou_dip_gene": "RYR1",
-        "cou_dip_counts": 4.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 1.0
+        "cou_dip_diplotype": "Reference/Reference",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00027148",
         "cou_dip_nbt_id": "00027148",
         "cou_dip_gene": "SLCO1B1",
-        "cou_dip_counts": 1.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.25
+        "cou_dip_diplotype": "*1/*37",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00027148",
         "cou_dip_nbt_id": "00027148",
         "cou_dip_gene": "TPMT",
-        "cou_dip_counts": 4.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 1.0
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00027148",
         "cou_dip_nbt_id": "00027148",
         "cou_dip_gene": "UGT1A1",
-        "cou_dip_counts": 2.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.5
+        "cou_dip_diplotype": "*1/*80+*28",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 2.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.25
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 2.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.2857
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
     },
     {
         "cou_dip_sample_id": "00027148",
         "cou_dip_nbt_id": "00027148",
         "cou_dip_gene": "VKORC1",
-        "cou_dip_counts": 2.0,
-        "cou_dip_total": 4.0,
-        "cou_dip_frequency": 0.5
+        "cou_dip_diplotype": "rs9923231 variant (T)/rs9923231 variant (T)",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 5.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.625
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00028092",
+        "cou_dip_nbt_id": "00028092",
+        "cou_dip_gene": "CACNA1S",
+        "cou_dip_diplotype": "Reference/Reference",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00028092",
+        "cou_dip_nbt_id": "00028092",
+        "cou_dip_gene": "CFTR",
+        "cou_dip_diplotype": "ivacaftor non-responsive CFTR sequence/ivacaftor non-responsive CFTR sequence",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00028092",
+        "cou_dip_nbt_id": "00028092",
+        "cou_dip_gene": "CYP2B6",
+        "cou_dip_diplotype": "*6/*6",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 6.0,
+                "dip_ratio": 0.1667
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 5.0,
+                "dip_ratio": 0.2
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00028092",
+        "cou_dip_nbt_id": "00028092",
+        "cou_dip_gene": "CYP2B6",
+        "cou_dip_diplotype": "*6/*9",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 0.0,
+                "dip_total": 6.0,
+                "dip_ratio": 0.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 0.0,
+                "dip_total": 5.0,
+                "dip_ratio": 0.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00028092",
+        "cou_dip_nbt_id": "00028092",
+        "cou_dip_gene": "CYP2B6",
+        "cou_dip_diplotype": "*9/*9",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 0.0,
+                "dip_total": 6.0,
+                "dip_ratio": 0.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 0.0,
+                "dip_total": 5.0,
+                "dip_ratio": 0.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00028092",
+        "cou_dip_nbt_id": "00028092",
+        "cou_dip_gene": "CYP2C19",
+        "cou_dip_diplotype": "*1/*2",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 5.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.625
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00028092",
+        "cou_dip_nbt_id": "00028092",
+        "cou_dip_gene": "CYP2C9",
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00028092",
+        "cou_dip_nbt_id": "00028092",
+        "cou_dip_gene": "CYP2D6",
+        "cou_dip_diplotype": "*1/*14",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 3.0,
+                "dip_ratio": 0.3333
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 3.0,
+                "dip_ratio": 0.3333
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 0.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00028092",
+        "cou_dip_nbt_id": "00028092",
+        "cou_dip_gene": "CYP3A5",
+        "cou_dip_diplotype": "*1/*3",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 5.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.625
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00028092",
+        "cou_dip_nbt_id": "00028092",
+        "cou_dip_gene": "CYP4F2",
+        "cou_dip_diplotype": "*1/*3",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 3.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.375
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 3.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.4286
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00028092",
+        "cou_dip_nbt_id": "00028092",
+        "cou_dip_gene": "DPYD",
+        "cou_dip_diplotype": "Reference/Reference",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 3.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.375
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 2.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.2857
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00028092",
+        "cou_dip_nbt_id": "00028092",
+        "cou_dip_gene": "HLA-A",
+        "cou_dip_diplotype": "HLA-A*24:02:01/HLA-A*24:10:01",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 0.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00028092",
+        "cou_dip_nbt_id": "00028092",
+        "cou_dip_gene": "HLA-B",
+        "cou_dip_diplotype": "HLA-B*18:02:01/HLA-B*40:06:01",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 0.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00028092",
+        "cou_dip_nbt_id": "00028092",
+        "cou_dip_gene": "IFNL3",
+        "cou_dip_diplotype": "rs12979860 reference (C)/rs12979860 reference (C)",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00028092",
+        "cou_dip_nbt_id": "00028092",
+        "cou_dip_gene": "NUDT15",
+        "cou_dip_diplotype": "*1/*6",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00028092",
+        "cou_dip_nbt_id": "00028092",
+        "cou_dip_gene": "RYR1",
+        "cou_dip_diplotype": "Reference/Reference",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00028092",
+        "cou_dip_nbt_id": "00028092",
+        "cou_dip_gene": "SLCO1B1",
+        "cou_dip_diplotype": "*37/*37",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 4.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.5
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 3.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.4286
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00028092",
+        "cou_dip_nbt_id": "00028092",
+        "cou_dip_gene": "TPMT",
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00028092",
+        "cou_dip_nbt_id": "00028092",
+        "cou_dip_gene": "UGT1A1",
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 6.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.75
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00028092",
+        "cou_dip_nbt_id": "00028092",
+        "cou_dip_gene": "VKORC1",
+        "cou_dip_diplotype": "rs9923231 variant (T)/rs9923231 variant (T)",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 5.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.625
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00045394",
+        "cou_dip_nbt_id": "00045394",
+        "cou_dip_gene": "CACNA1S",
+        "cou_dip_diplotype": "Reference/Reference",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00045394",
+        "cou_dip_nbt_id": "00045394",
+        "cou_dip_gene": "CFTR",
+        "cou_dip_diplotype": "ivacaftor non-responsive CFTR sequence/ivacaftor non-responsive CFTR sequence",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00045394",
+        "cou_dip_nbt_id": "00045394",
+        "cou_dip_gene": "CYP2B6",
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 2.0,
+                "dip_total": 6.0,
+                "dip_ratio": 0.3333
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 5.0,
+                "dip_ratio": 0.2
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00045394",
+        "cou_dip_nbt_id": "00045394",
+        "cou_dip_gene": "CYP2C19",
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 2.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.25
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00045394",
+        "cou_dip_nbt_id": "00045394",
+        "cou_dip_gene": "CYP2C9",
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00045394",
+        "cou_dip_nbt_id": "00045394",
+        "cou_dip_gene": "CYP3A5",
+        "cou_dip_diplotype": "*1/*3",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 5.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.625
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00045394",
+        "cou_dip_nbt_id": "00045394",
+        "cou_dip_gene": "CYP4F2",
+        "cou_dip_diplotype": "*3/*3",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00045394",
+        "cou_dip_nbt_id": "00045394",
+        "cou_dip_gene": "DPYD",
+        "cou_dip_diplotype": "c.1627A>G (*5)/Reference",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00045394",
+        "cou_dip_nbt_id": "00045394",
+        "cou_dip_gene": "HLA-A",
+        "cou_dip_diplotype": "HLA-A*02:11:01/HLA-A*33:03:01",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 0.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00045394",
+        "cou_dip_nbt_id": "00045394",
+        "cou_dip_gene": "HLA-B",
+        "cou_dip_diplotype": "HLA-B*44:03:02/HLA-B*44:03:02",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 0.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00045394",
+        "cou_dip_nbt_id": "00045394",
+        "cou_dip_gene": "IFNL3",
+        "cou_dip_diplotype": "rs12979860 reference (C)/rs12979860 reference (C)",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00045394",
+        "cou_dip_nbt_id": "00045394",
+        "cou_dip_gene": "NUDT15",
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 6.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.75
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00045394",
+        "cou_dip_nbt_id": "00045394",
+        "cou_dip_gene": "RYR1",
+        "cou_dip_diplotype": "Reference/Reference",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00045394",
+        "cou_dip_nbt_id": "00045394",
+        "cou_dip_gene": "SLCO1B1",
+        "cou_dip_diplotype": "*37/*37",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 4.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.5
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 3.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.4286
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00045394",
+        "cou_dip_nbt_id": "00045394",
+        "cou_dip_gene": "TPMT",
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00045394",
+        "cou_dip_nbt_id": "00045394",
+        "cou_dip_gene": "UGT1A1",
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 6.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.75
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00045394",
+        "cou_dip_nbt_id": "00045394",
+        "cou_dip_gene": "VKORC1",
+        "cou_dip_diplotype": "rs9923231 reference (C)/rs9923231 variant (T)",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 3.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.375
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 2.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.2857
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00051044",
+        "cou_dip_nbt_id": "00051044",
+        "cou_dip_gene": "CACNA1S",
+        "cou_dip_diplotype": "Reference/Reference",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00051044",
+        "cou_dip_nbt_id": "00051044",
+        "cou_dip_gene": "CFTR",
+        "cou_dip_diplotype": "ivacaftor non-responsive CFTR sequence/ivacaftor non-responsive CFTR sequence",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00051044",
+        "cou_dip_nbt_id": "00051044",
+        "cou_dip_gene": "CYP2B6",
+        "cou_dip_diplotype": "*6/*6",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 6.0,
+                "dip_ratio": 0.1667
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 5.0,
+                "dip_ratio": 0.2
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00051044",
+        "cou_dip_nbt_id": "00051044",
+        "cou_dip_gene": "CYP2C19",
+        "cou_dip_diplotype": "*1/*2",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 5.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.625
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00051044",
+        "cou_dip_nbt_id": "00051044",
+        "cou_dip_gene": "CYP2C9",
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00051044",
+        "cou_dip_nbt_id": "00051044",
+        "cou_dip_gene": "CYP3A5",
+        "cou_dip_diplotype": "*1/*3",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 5.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.625
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00051044",
+        "cou_dip_nbt_id": "00051044",
+        "cou_dip_gene": "CYP4F2",
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 4.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.5
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 3.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.4286
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00051044",
+        "cou_dip_nbt_id": "00051044",
+        "cou_dip_gene": "DPYD",
+        "cou_dip_diplotype": "c.85T>C (*9A)/c.1627A>G (*5)",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00051044",
+        "cou_dip_nbt_id": "00051044",
+        "cou_dip_gene": "HLA-A",
+        "cou_dip_diplotype": "HLA-A*02:07:01/HLA-A*02:07:01",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 0.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00051044",
+        "cou_dip_nbt_id": "00051044",
+        "cou_dip_gene": "HLA-B",
+        "cou_dip_diplotype": "HLA-B*07:06:01/HLA-B*46:01:01",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 0.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00051044",
+        "cou_dip_nbt_id": "00051044",
+        "cou_dip_gene": "IFNL3",
+        "cou_dip_diplotype": "rs12979860 reference (C)/rs12979860 reference (C)",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00051044",
+        "cou_dip_nbt_id": "00051044",
+        "cou_dip_gene": "NUDT15",
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 6.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.75
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00051044",
+        "cou_dip_nbt_id": "00051044",
+        "cou_dip_gene": "RYR1",
+        "cou_dip_diplotype": "Reference/Reference",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00051044",
+        "cou_dip_nbt_id": "00051044",
+        "cou_dip_gene": "SLCO1B1",
+        "cou_dip_diplotype": "*1/*15",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00051044",
+        "cou_dip_nbt_id": "00051044",
+        "cou_dip_gene": "TPMT",
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00051044",
+        "cou_dip_nbt_id": "00051044",
+        "cou_dip_gene": "UGT1A1",
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 6.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.75
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00051044",
+        "cou_dip_nbt_id": "00051044",
+        "cou_dip_gene": "VKORC1",
+        "cou_dip_diplotype": "rs9923231 variant (T)/rs9923231 variant (T)",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 5.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.625
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00064901",
+        "cou_dip_nbt_id": "00064901",
+        "cou_dip_gene": "CACNA1S",
+        "cou_dip_diplotype": "Reference/Reference",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00064901",
+        "cou_dip_nbt_id": "00064901",
+        "cou_dip_gene": "CFTR",
+        "cou_dip_diplotype": "ivacaftor non-responsive CFTR sequence/ivacaftor non-responsive CFTR sequence",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00064901",
+        "cou_dip_nbt_id": "00064901",
+        "cou_dip_gene": "CYP2B6",
+        "cou_dip_diplotype": "*1/*4",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 6.0,
+                "dip_ratio": 0.1667
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 5.0,
+                "dip_ratio": 0.2
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00064901",
+        "cou_dip_nbt_id": "00064901",
+        "cou_dip_gene": "CYP2C19",
+        "cou_dip_diplotype": "*1/*2",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 5.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.625
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00064901",
+        "cou_dip_nbt_id": "00064901",
+        "cou_dip_gene": "CYP2C9",
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00064901",
+        "cou_dip_nbt_id": "00064901",
+        "cou_dip_gene": "CYP3A5",
+        "cou_dip_diplotype": "*1/*3",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 5.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.625
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00064901",
+        "cou_dip_nbt_id": "00064901",
+        "cou_dip_gene": "CYP4F2",
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 4.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.5
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 3.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.4286
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00064901",
+        "cou_dip_nbt_id": "00064901",
+        "cou_dip_gene": "DPYD",
+        "cou_dip_diplotype": "Reference/Reference",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 3.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.375
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 2.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.2857
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00064901",
+        "cou_dip_nbt_id": "00064901",
+        "cou_dip_gene": "HLA-A",
+        "cou_dip_diplotype": "HLA-A*02:03:01/HLA-A*74:02:01",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 0.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00064901",
+        "cou_dip_nbt_id": "00064901",
+        "cou_dip_gene": "HLA-B",
+        "cou_dip_diplotype": "HLA-B*46:01:01/HLA-B*51:01:02",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 1.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.125
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 1.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.1429
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 0.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00064901",
+        "cou_dip_nbt_id": "00064901",
+        "cou_dip_gene": "IFNL3",
+        "cou_dip_diplotype": "rs12979860 reference (C)/rs12979860 reference (C)",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00064901",
+        "cou_dip_nbt_id": "00064901",
+        "cou_dip_gene": "NUDT15",
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 6.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.75
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00064901",
+        "cou_dip_nbt_id": "00064901",
+        "cou_dip_gene": "RYR1",
+        "cou_dip_diplotype": "Reference/Reference",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00064901",
+        "cou_dip_nbt_id": "00064901",
+        "cou_dip_gene": "SLCO1B1",
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 2.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.25
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 2.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.2857
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00064901",
+        "cou_dip_nbt_id": "00064901",
+        "cou_dip_gene": "TPMT",
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 8.0,
+                "dip_total": 8.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 7.0,
+                "dip_total": 7.0,
+                "dip_ratio": 1.0
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00064901",
+        "cou_dip_nbt_id": "00064901",
+        "cou_dip_gene": "UGT1A1",
+        "cou_dip_diplotype": "*1/*1",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 6.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.75
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 1.0,
+                "dip_total": 1.0,
+                "dip_ratio": 1.0
+            }
+        ]
+    },
+    {
+        "cou_dip_sample_id": "00064901",
+        "cou_dip_nbt_id": "00064901",
+        "cou_dip_gene": "VKORC1",
+        "cou_dip_diplotype": "rs9923231 variant (T)/rs9923231 variant (T)",
+        "cou_dip_gender_distribution": [
+            {
+                "cou_gender": "all",
+                "dip_cou": 5.0,
+                "dip_total": 8.0,
+                "dip_ratio": 0.625
+            },
+            {
+                "cou_gender": "female",
+                "dip_cou": 5.0,
+                "dip_total": 7.0,
+                "dip_ratio": 0.7143
+            },
+            {
+                "cou_gender": "male",
+                "dip_cou": 0.0,
+                "dip_total": 1.0,
+                "dip_ratio": 0.0
+            }
+        ]
     }
 ]
